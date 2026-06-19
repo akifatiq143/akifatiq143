@@ -88,6 +88,26 @@ iOS Application
 * UI Testing
 * Regression Testing
 
+#### SMART TRACK (CRM – Web & Mobile App)
+
+Tested CRM features like customer onboarding, product listings, and service modules. 
+
+
+#### CHIC CHAC (Tablet App – Poultry Farm Management) 
+
+Tested real-time sensor data and operational modules like flock tracking and reporting. 
+
+
+#### URBAN MENU (Media Streaming Web App)
+
+Validated media upload, playback, and streaming features across devices. 
+
+
+#### VISAR SHOP (E-Commerce Web App) 
+
+Tested core e-commerce flows: product listing, cart, checkout, and user accounts. 
+
+
 ### Currently Learning
 
 * Advanced Playwright Framework Design
